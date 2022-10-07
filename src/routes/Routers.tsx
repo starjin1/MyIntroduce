@@ -8,7 +8,7 @@ import School from './School';
 function Routers() {
     return (
         <>
-        <BrowserRouter>
+        <BrowserRouter basename={process.env.PUBLIC_URL}>
         <Routes>
             <Route path='/' element={<Home />}></Route>
             <Route path='/grouth' element={<Groth />}></Route>

@@ -1,8 +1,6 @@
 import { Link } from "react-router-dom";
 import styled from "styled-components";
 import { FcLikePlaceholder } from "react-icons/fc";
-import { FcLike } from "react-icons/fc";
-import { AiOutlineGithub } from "react-icons/ai";
 
 const Conitainer = styled.div`
 display:flex;
