@@ -17,6 +17,17 @@ const GlobalStyle = createGlobalStyle`
 body {
   font-family: 'Noto Sans KR', sans-serif;
 }
+body::-webkit-scrollbar {
+  width:0.5rem ;
+}
+body::-webkit-scrollbar-thumb {
+  background: #6e6e6f7d;
+  height:10px;
+}
+body::-webkit-scrollbar-track {
+  background: transparent;
+}
+
 
 `;
 
