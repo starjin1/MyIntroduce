@@ -87,7 +87,7 @@ function Motivate() {
     return (
         <Conitainer>
         <Header>
-            <Tiltle>학교 생활</Tiltle>
+            <Tiltle>지원 동기 및 포부</Tiltle>
         </Header>
         <ContentBox>
             <BoxContent>
