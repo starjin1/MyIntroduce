@@ -11,6 +11,7 @@ text-align: center;
 margin:3rem 0;
 
 
+
 @media (min-height:650px) {
     margin-top:7rem;
     
